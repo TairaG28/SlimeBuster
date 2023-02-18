@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-public static class Example2
+public static class Example02
 {
     [MenuItem("Tools/Hoge")]
     private static void Hoge()

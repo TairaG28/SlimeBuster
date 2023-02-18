@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-public class Example
+public class Example01
 {
     [MenuItem("Example/Log Missing Script Count")]
     private static void LogMissingScriptCount()
